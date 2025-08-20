@@ -10,5 +10,6 @@
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OPENTELEMETRY-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7B3FE4?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Jaeger](https://img.shields.io/badge/JAEGER-000000?style=for-the-badge&logo=jaeger&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
